@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for TypeScript + Webpack Problem Matchers
+about: Suggest an idea for Prettier Problem Matchers
 title: ''
 labels: 'type: feature'
 assignees: ''

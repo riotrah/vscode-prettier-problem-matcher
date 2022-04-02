@@ -8,12 +8,12 @@ Please note the [Code of Conduct](CODE_OF_CONDUCT.md) document, please follow it
 
 ## Your First Code Contribution
 
-Unsure where to begin contributing? You can start by looking through the [`help-wanted`](https://github.com/eamodio/vscode-tsl-problem-matcher/labels/help%20wanted) issues.
+Unsure where to begin contributing? You can start by looking through the [`help-wanted`](https://github.com/riotrah/vscode-prettier-problem-matcher/labels/help%20wanted) issues.
 
 ### Getting the code
 
 ```
-git clone https://github.com/eamodio/vscode-tsl-problem-matcher.git
+git clone https://github.com/riotrah/vscode-prettier-problem-matcher.git
 ```
 
 Prerequisites

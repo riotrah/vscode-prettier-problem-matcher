@@ -1,4 +1,4 @@
-## Thank you for taking the time to contribute to TypeScript + Webpack Problem Matchers! ♥
+## Thank you for taking the time to contribute to Prettier Problem Matchers! ♥
 
 ### 🚨 IMPORTANT 🚨
 
